@@ -21,7 +21,7 @@ You are the product manager leading one of the product teams in a tech-company. 
 
 ## Knowledge Officer Rubric
 <p align="center">
-<img src="https://github.com/yarahisham/Sanstefano_CaseStudy-ProductRoadmap/blob/master/images/Screen%20Shot%202021-04-27%20at%202.20.08%20AM.jpg" alt="alt text" width="700" height="200" >
+<img src="https://github.com/yarahisham/Sanstefano_CaseStudy-ProductRoadmap/blob/master/images/Screen%20Shot%202021-04-27%20at%202.20.08%20AM.jpg" alt="alt text" width="700" height="500" >
 </p>
 
 <p align="center">
