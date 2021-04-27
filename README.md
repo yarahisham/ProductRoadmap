@@ -6,10 +6,11 @@ You are the product manager leading one of the product teams in a tech-company. 
 </p>
 
 ## Description
-- Product Vision.
-- Product Goals and Metric.
-- Product Strategy.
-- Product Theme and Metric.
+- The Product roadmap includes:
+  - Product Vision.
+  - Product Goals and Metric.
+  - Product Strategy.
+  - Product Theme and Metric.
 
 <p align="center">
 <img src="https://github.com/yarahisham/Sanstefano_CaseStudy-ProductRoadmap/blob/master/images/Screen%20Shot%202021-04-27%20at%202.18.54%20AM.jpg" alt="alt text" width="700" height="400" >
